@@ -1305,7 +1305,7 @@
 					< 1574400 MHZ_TO_MBPS(1353, 4) >,
 					< 1804800 MHZ_TO_MBPS(1555, 4) >,
 					< 2227200 MHZ_TO_MBPS(1804, 4) >,
-					< 2380800 MHZ_TO_MBPS(2092, 4) >;
+					< 2380800 MHZ_TO_MBPS(2200, 4) >;
 			};
 
 			ddr5-map {
@@ -1332,7 +1332,7 @@
 				qcom,core-dev-table =
 					< 1804800 MHZ_TO_MBPS( 200, 4) >,
 					< 2380800 MHZ_TO_MBPS(1017, 4) >,
-					< 2500000 MHZ_TO_MBPS(2092, 4) >;
+					< 2500000 MHZ_TO_MBPS(2200, 4) >;
 			};
 
 			ddr5-map {
